@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Nishitbaria/VigyBag#readme",
   "dependencies": {
     "@bufferhead/nightowl": "^0.0.14",
-    "axios": "^1.7.2"
+    "axios": "^1.7.5"
   },
   "devDependencies": {
     "eslint": "^9.5.0",
